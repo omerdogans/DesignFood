@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Main Colors -->
+    <color name="mainColor">#1e3b3f</color>
+    <color name="mainBackground">#f5f5f7</color>
+    <color name="yedekBackground">#f8f8f8</color>
+    <color name="yazi1">#2e2e2e</color>
+    <color name="yazi2">#a6a6a8</color>
+    <color name="dogru">#3b8525</color>
+
+    <!--Renklerim-->
+    <color name="anaRenk">#8BC34A</color>
+    <color name="koyuAnaRenk">#4CAF50</color>
+    <color name="yaziRenk1">#FFFFFFFF</color>
+    <color name="yaziRenk2">#636363</color>
+
+
+</resources>
